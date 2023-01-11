@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a linux developer
+DevOps Engineer
 
 
 ## 🌐 Socials:
