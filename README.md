@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://abdhamza.medium.com/](https://abdhamza.medium.com/)
 
-- 📫 How to reach me **habdullah704@gmail.com**
+- 📫 How to reach me **engr.abdullah.hamza@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
